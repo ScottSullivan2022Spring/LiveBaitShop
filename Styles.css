@@ -4,13 +4,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #56a2d5;
+    background-color: #248048;
     text-align: center;
    }
    header {
-    background-color: #71c2a5;
+    background-color: #b6ec73;
     color:rgb(0, 0, 0);
-    padding: 150px;
+    padding: 10px;
     position: static;
     text-align: center;
     z-index: 10;
@@ -24,7 +24,7 @@ body {
    }
    nav {
     display: flex;
-    background: #d42828;
+    background: #ffffff;
     position: static;
     text-align: center;
     padding: 2px 0;
@@ -37,12 +37,12 @@ body {
    }
    .menu li {
     padding: 10px;
-    border-bottom: 1px solid #ff0000;
+    border-bottom: 1px solid #ffffff;
     text-align: center;
    }
    .menu li a {
     text-decoration: none;
-    color: rgb(187, 80, 80);
+    color: rgb(255, 255, 255);
     display: block;
     padding: 10px;
    }
@@ -72,11 +72,11 @@ body {
     border-radius: 5px;
    }
    .card {
-    background: rgb(114, 224, 198);
+    background: rgb(40, 135, 113);
     padding: 5px;
     margin: 5% 0;
     border-radius: 5px;
-    box-shadow: 5px 5px 10px rgba(251, 251, 252, 0.5);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
    }
    .card img {
     background-color: #3b4756;
